@@ -1,0 +1,4 @@
+{"trainfile":"BK.train",
+ "testfile":"BK.test",
+ "weights":"5",
+ "type":"regression"}

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>state_finish.png</file>
+        <file>state_pause.png</file>
+        <file>state_run.png</file>
+        <file>state_wait.png</file>
+        <file>linux_icon.png</file>
+        <file>android_icon.png</file>
+        <file>apple_icon.png</file>
+        <file>windows_icon.png</file>
+        <file>ios_icon.png</file>
+        <file>floppy.png</file>
+        <file>trash.png</file>
+        <file>add.png</file>
+        <file>minus.png</file>
+        <file>update.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+#ifndef POTENTIAL_GLOBAL_H
+#define POTENTIAL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(POTENTIAL_LIBRARY)
+#  define POTENTIALSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define POTENTIALSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // POTENTIAL_GLOBAL_H
