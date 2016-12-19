@@ -1,2 +1,2 @@
 # OnePC
-OnePc: A software for portable parallel genetic algorithms
+OnePc: A software for portable parallel genetic algorithms The main purpose of OnePC is to create a parallel genetic algorithm for function minimization using the well known Island technique, where each machine denoted as client, runs a a local genetic algorithm with separate sub-population. The machine denoted as server gathers from clients periodically the best discovered minimum. The software is implemented in ANSI C++ using QT Library in order to be portable in any operating system. More information about the software can be found in the documentation page of the software http://itsoulos.teiep.gr/OnePCSite/
