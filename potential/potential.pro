@@ -11,7 +11,7 @@ TEMPLATE = lib
 
 DEFINES += POTENTIAL_LIBRARY
 
-SOURCES += potential.cpp
+SOURCES += potential.cpp tolmin.cc
 
 HEADERS += potential.h\
         potential_global.h
